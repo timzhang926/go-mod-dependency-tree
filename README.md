@@ -28,7 +28,7 @@ For any Go project, a list of Go packages are reused. These packages have compli
 <img src="./images/deps2.png" alt="sub dependency tree" width="50%" height="50%" title="big picture of sub dependency tree">
 
 # Where to download
-[gomoddeps](https://timzhang926.etsy.com)
+[go-mod-dependency-tree](https://timzhang926.etsy.com)
 
 # Usage
 <img src="./images/deps_help.png" alt="gomoddeps help" width="100%" height="100%" title="gomoddeps help">
