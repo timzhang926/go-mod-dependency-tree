@@ -1,4 +1,4 @@
-# Go mod dependency
+# Go Mod Dependency Tree
 
 ## Why
 For any Go project, a list of Go packages are reused. These packages have complicated dependencies between them, which can be difficult to keep track of. To help with this, the Go Mod Graph command provides a way to view these dependencies and show the relationships between the packages recursively. This can be useful to understand the full picture of the dependencies, however the output of the go mod graph can be difficult to comprehend. 
